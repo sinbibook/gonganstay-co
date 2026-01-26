@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-01-26T09:18:53.692Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-01-26T23:57:21.076Z",
     "templateType": "full_banner_wipe",
     "propertyId": "65874f96-97a7-46b7-82f3-6de0145cf7b3",
     "homepageId": "f1943f7e-912c-42ea-85c7-b0fb7408259e"
@@ -74,7 +74,78 @@
         "description": "객실 앞에 설치된 개별 야외수영장에서 시원한 물놀이를 즐겨보세요! ",
         "usageGuide": "[개별 야외수영장]\n- 이용 객실: 1호, 2호, 3호\n- 이용 시간: 15:00 ~ 20:00\n- 야외풀 미온수 요금: 120,000원 (1박당/현장결제)\n- 야외풀 냉수 요금: 30,000원 (1박당/현장결제)\n- 이용복장 : 래쉬가드, 간편복\n※ 12~2월 사용불가\n\n[개별수영장 이용안내]\n※ 상기된 요금은 1박당 이용 요금이며, 현장결제입니다.\n※ 입실일 하루 전까지 사전예약 필수(예약하지 않으시면 물이 안받아져있음)\n※ 당일 예약시 미리 연락주셔야 합니다\n※ 오일,거품 목욕제 및 기타 입욕제,꽃잎,음식물 반입금지",
         "displayOrder": 0,
-        "images": []
+        "images": [
+          {
+            "id": "88451b1f-e61b-4e44-b56d-c62cf45f4278",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d647763c-264c-49b1-a57d-95013fe24ea0/main/1769419225821-s9rx6b49ued.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "7c0ab663-7727-48a0-bf4d-de699f8d36d8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d647763c-264c-49b1-a57d-95013fe24ea0/main/1769419225821-qcfn0fuzuw.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "419dd9cb-b41a-4f98-9730-3180de855a01",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d647763c-264c-49b1-a57d-95013fe24ea0/main/1769419225822-bndsc2iazjt.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "4d0c2d55-74c7-4a09-b7cf-22a362228f44",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d647763c-264c-49b1-a57d-95013fe24ea0/main/1769419225821-g9ssvjn7qo.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "53331e5f-26e4-4c9d-91ee-78642d4fafe1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d647763c-264c-49b1-a57d-95013fe24ea0/main/1769419225821-jukfraxo23r.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "87f9a1cd-cb15-47b4-ad71-ae03bd7e59fd",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d647763c-264c-49b1-a57d-95013fe24ea0/main/1769419225821-31x0aoe9l2t.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "0cde973d-1857-40ad-98ac-eafcad23b7c3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d647763c-264c-49b1-a57d-95013fe24ea0/main/1769419225822-f99av16c7h.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "45d45973-fb27-4124-8987-1355f4038c8f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d647763c-264c-49b1-a57d-95013fe24ea0/main/1769419225822-1hzzxuql3pr.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "3ea074ab-1765-4c3c-b488-546350d55b24",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d647763c-264c-49b1-a57d-95013fe24ea0/main/1769419225822-fpwryo2vb3j.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "ec3315f0-d3ef-432a-9bc7-fe9e54ed2be9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d647763c-264c-49b1-a57d-95013fe24ea0/main/1769419225822-rmtn8i6cvq.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "790e7192-00a3-43cb-a840-d9f7049d674a",
@@ -82,7 +153,92 @@
         "description": "바다가 보이는 오션뷰 실내수영장에서 즐거운 물놀이!",
         "usageGuide": "[개별 실내수영장]\n- 이용 객실: 전 객실\n- 이용 시간: 15:00 ~ 20:00\n- 실내풀 미온수 요금: 70,000원 (1박당/현장결제)\n- 실내풀 냉수 요금: 30,000원 (1박당/현장결제)\n\n[개별수영장 이용안내]\n※ 상기된 요금은 1박당 이용 요금이며, 현장결제입니다.\n※ 입실일 하루 전까지 사전예약 필수(예약하지 않으시면 물이 안받아져있음)\n※ 당일 예약시 미리 연락주셔야 합니다\n※ 오일,거품 목욕제 및 기타 입욕제,꽃잎,음식물 반입금지",
         "displayOrder": 1,
-        "images": []
+        "images": [
+          {
+            "id": "116b827f-7cc7-4657-8a69-263ce433e9b9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/790e7192-00a3-43cb-a840-d9f7049d674a/main/1769419309138-tavspsms8o.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "2d32de0a-b9f8-4fbc-a347-17e56fb68069",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/790e7192-00a3-43cb-a840-d9f7049d674a/main/1769419309138-d2a4ruqerit.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "20d92e7f-f15a-4548-97ef-173bf5ceb47a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/790e7192-00a3-43cb-a840-d9f7049d674a/main/1769419309138-7frpl3wsdcd.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "404eaaaf-7536-4c25-86d8-da3fa1b3bed1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/790e7192-00a3-43cb-a840-d9f7049d674a/main/1769419309138-drub94ctqed.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "262265a6-cceb-45b2-b450-0cd743b6b66e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/790e7192-00a3-43cb-a840-d9f7049d674a/main/1769419309139-2gw58ovjx4g.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "2b41662f-9f0a-4569-b2af-6d1dbf6671b8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/790e7192-00a3-43cb-a840-d9f7049d674a/main/1769419309138-ccvfjkviibn.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "ab7616fa-9a34-4633-a81f-e98db1c2d8a2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/790e7192-00a3-43cb-a840-d9f7049d674a/main/1769419309138-j08ohqb1hql.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "4a95103e-e037-48df-9290-243a09a245a1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/790e7192-00a3-43cb-a840-d9f7049d674a/main/1769419309137-77vj0tdq45a.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "72677d41-5411-4e70-b8ff-53945df76022",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/790e7192-00a3-43cb-a840-d9f7049d674a/main/1769419309139-0n4fxwjigwjk.jpg",
+            "sortOrder": 11,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "2d34f8f1-34f3-4a22-b100-1241cdb89e51",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/790e7192-00a3-43cb-a840-d9f7049d674a/main/1769419309138-p6rvjadl1pe.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "ae1bd0ab-a206-4279-8a30-97a85d344b22",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/790e7192-00a3-43cb-a840-d9f7049d674a/main/1769419309138-mjpuwinq3k9.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "777439bc-d7cf-4b1a-8bb1-5cb7c0eb64f5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/790e7192-00a3-43cb-a840-d9f7049d674a/main/1769419309138-9uzv9lgjccb.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "1553cc6b-7f82-4080-a205-c63d049c43b0",
@@ -90,7 +246,57 @@
         "description": "사랑하는 사람들과 개별 프라이빗 바베큐 파티를 즐겨보세요. ",
         "usageGuide": "[개별바비큐]\n- 이용 장소 : 1~3호 개별테라스, 4호는 실내\n- 숯+그릴 바베큐(1~3호) : 2인기준 20,000원+1인당 5,000원 (백탄 사용)\n- 가스그릴 대여(4호) : 10,000원 \n※ 1박 기준/현장결제",
         "displayOrder": 2,
-        "images": []
+        "images": [
+          {
+            "id": "87874ac9-1e49-42ca-8eac-ef0be08d1217",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1553cc6b-7f82-4080-a205-c63d049c43b0/main/1769419379312-6plcoznves4.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "4d838158-7c3d-4cbe-b670-aa0b9f68d023",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1553cc6b-7f82-4080-a205-c63d049c43b0/main/1769419379313-5g0k1hrq38i.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "6396df4e-4141-44b6-90e9-340f077fb29a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1553cc6b-7f82-4080-a205-c63d049c43b0/main/1769419379312-g9kyouuawuj.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "4f28489d-8cc3-4a02-8b19-216507daf066",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1553cc6b-7f82-4080-a205-c63d049c43b0/main/1769419379312-m1p4mkfv0lj.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "1f26d861-f5cf-4a56-a79c-a7370b19d850",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1553cc6b-7f82-4080-a205-c63d049c43b0/main/1769419379312-yddv93jrmxl.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "5e7f0620-b9dd-487c-bb64-13bd6e6c8c33",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1553cc6b-7f82-4080-a205-c63d049c43b0/main/1769419379313-v41gqe9sry.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "f74378aa-b27a-4941-96af-98f5e4c28512",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1553cc6b-7f82-4080-a205-c63d049c43b0/main/1769419379312-ak2lobhl1g.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "fe9d6908-8f34-44a0-aa03-e5cdfc84e36c",
@@ -98,7 +304,15 @@
         "description": "사랑하는 사람과 불멍을 즐기며 깊어가는 거제도의 밤을 보내보세요. ",
         "usageGuide": "[불멍]\n- 이용 객실 : 1호\n- 요금 : 30,000원 (장작 제공)\n※ 1박 기준/현장결제\n※ 날씨에 따라 이용이 변동될 수 있습니다.",
         "displayOrder": 3,
-        "images": []
+        "images": [
+          {
+            "id": "9f694687-3925-45ea-ad6d-97757a1b9abc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fe9d6908-8f34-44a0-aa03-e5cdfc84e36c/main/1769419440712-36soptns781.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "eeb71637-86a9-4c4f-992b-f2d63858e7e3",
@@ -106,7 +320,50 @@
         "description": "객실 앞 넓은 데크에서 텐트 설치가 가능합니다. ",
         "usageGuide": "[개별 데크]\n- 객실 앞 넓은 데크에서 텐트 설치가 가능합니다. (1~3호)\n※ 말뚝 설치 불가 \n※ 텐트 설치를 원하실 경우 개별 지참 필수",
         "displayOrder": 4,
-        "images": []
+        "images": [
+          {
+            "id": "135b6a3f-9c1d-4147-827c-6b623eef0792",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eeb71637-86a9-4c4f-992b-f2d63858e7e3/main/1769419442463-tk4fv4evq1m.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "a43f8ec2-d654-41f0-b379-02e8835530ba",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eeb71637-86a9-4c4f-992b-f2d63858e7e3/main/1769419442462-kop5m0h0v3r.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "25533cb0-bcbc-4010-8fac-cb6aee26e78e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eeb71637-86a9-4c4f-992b-f2d63858e7e3/main/1769419442463-7efi12kr5ub.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "4b232cf2-50a0-4a53-86ad-c165ee18d9f8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eeb71637-86a9-4c4f-992b-f2d63858e7e3/main/1769419442463-e53fs2pjxco.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "11117a91-c15f-48b1-b469-a584fdf57b1d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eeb71637-86a9-4c4f-992b-f2d63858e7e3/main/1769419442463-a287a3qnffu.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "5ebbf71d-b917-4ea7-b9f0-6ba93685f1da",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/eeb71637-86a9-4c4f-992b-f2d63858e7e3/main/1769419442463-psq2x93szdf.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -486,7 +743,7 @@
                   {
                     "id": "0a923b34-efd0-4d23-aef5-bfdefa751670",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_closing/1769419064938-fjjuml56mwt.jpg",
-                    "sortOrder": 16,
+                    "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   }
@@ -499,21 +756,21 @@
                   {
                     "id": "ca5fff57-548b-421d-9371-966de36640d6",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_essence/1769419064938-i1f00q4ai0q.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "ce0d2998-3c05-41fd-9d07-2f2f9379b9b7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_essence/1769419064938-n4h0o4ubn9o.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "7b3fc0b0-5cb6-4525-b21f-c81557d74c04",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_essence/1769419064938-8wuc8uizkkb.jpg",
-                    "sortOrder": 8,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   }
@@ -526,35 +783,35 @@
                   {
                     "id": "1cdfe0d3-20ba-4ef6-bdf3-21dc1896cbc3",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769419064938-yb9c7vdgpy.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 0,
                     "description": "객실내부",
                     "isSelected": true
                   },
                   {
                     "id": "f70e7d8d-4c7a-4e9c-a8ff-5fe93e0ad4c0",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769419064938-oju6cajpgll.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 1,
                     "description": "야외테라스",
                     "isSelected": true
                   },
                   {
                     "id": "c9ad169d-045e-4084-ad54-53442080c1e2",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769419064938-x53wqlymw6.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 2,
                     "description": "바베큐파티",
                     "isSelected": true
                   },
                   {
                     "id": "6ac7ffd6-0b3e-47aa-afa9-b93c7f32a7d2",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769419064938-36q8yup27kl.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 3,
                     "description": "불멍",
                     "isSelected": true
                   },
                   {
                     "id": "fbcec93e-5c72-4f54-8eea-4956c3509d3b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769419064938-c4vqw4426vq.jpg",
-                    "sortOrder": 11,
+                    "sortOrder": 4,
                     "description": "개별수영장",
                     "isSelected": true
                   }
