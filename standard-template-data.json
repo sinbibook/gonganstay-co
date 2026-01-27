@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-01-27T01:36:11.103Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-01-27T07:47:30.922Z",
     "templateType": "full_banner_wipe",
     "propertyId": "65874f96-97a7-46b7-82f3-6de0145cf7b3",
     "homepageId": "f1943f7e-912c-42ea-85c7-b0fb7408259e"
@@ -423,7 +423,7 @@
     ],
     "nameEn": "Geoje Gongan Pool Villa",
     "domain": "gonganstay.co.kr",
-    "realtimeBookingId": "10490",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/10490",
     "ybsId": ""
   },
   "rooms": [
@@ -937,9 +937,6 @@
           ]
         }
       },
-      "popup": {
-        "popups": []
-      },
       "theme": {
         "font": {
           "koSub": {
@@ -965,6 +962,9 @@
           "primary": "#FFFFFF",
           "secondary": "#866B62"
         }
+      },
+      "popup": {
+        "popups": []
       },
       "property": {
         "images": [
@@ -2159,7 +2159,6 @@
           ]
         }
       ]
-    },
-    "id": "f1943f7e-912c-42ea-85c7-b0fb7408259e"
+    }
   }
 }

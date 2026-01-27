@@ -1,1 +1,1 @@
-# gonganstay-co
+# template-full-banner-wipe
