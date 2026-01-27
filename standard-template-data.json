@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-01-27T00:46:50.572Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-01-27T01:05:37.452Z",
     "templateType": "full_banner_wipe",
     "propertyId": "65874f96-97a7-46b7-82f3-6de0145cf7b3",
     "homepageId": "f1943f7e-912c-42ea-85c7-b0fb7408259e"
@@ -828,8 +828,16 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [
+                  {
+                    "id": "b84e5a03-bce1-4816-9ec5-50010639df60",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/directions_hero/1769475924789-drblc87d7xs.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "notice": {
                 "title": "",
@@ -869,6 +877,21 @@
                   ],
                   "blockId": "a866c914-7eb5-456d-84f2-943d16c3a994",
                   "description": "어디에 머물러도 시야 가득 펼쳐지는 바다\n프라이빗한 수영장에서 누리는 여유로운 시간"
+                },
+                {
+                  "title": "개별 데크에서 즐기는 오션뷰 바베큐",
+                  "images": [
+                    {
+                      "id": "9ef667dd-dd8f-433e-a898-cd2132367bb4",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/main_about/1769475200519-bt5w9flhct.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6ddc19e7-1b13-401c-9ba2-fe80041a449c"
+                    }
+                  ],
+                  "blockId": "6ddc19e7-1b13-401c-9ba2-fe80041a449c",
+                  "description": "각 객실마다 마련된 프라이빗한 공간\n탁 트인 바다를 바라보며 즐기는 바베큐 시간\n시선 가득 바다를 담아내는 여유로운 식사"
                 }
               ]
             }
@@ -881,7 +904,15 @@
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "98d5ee5b-efc6-4bcb-ad7a-a63440c9216b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/reservation_hero/1769475924789-3isskkddzry.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "about": {
                 "title": "",
