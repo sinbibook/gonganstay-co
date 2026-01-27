@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.13.0",
-    "generatedAt": "2026-01-27T01:32:43.707Z",
+    "version": "1.14.0",
+    "generatedAt": "2026-01-27T01:36:11.103Z",
     "templateType": "full_banner_wipe",
     "propertyId": "65874f96-97a7-46b7-82f3-6de0145cf7b3",
     "homepageId": "f1943f7e-912c-42ea-85c7-b0fb7408259e"
@@ -679,13 +679,6 @@
                 "title": "거제 공간 풀빌라",
                 "images": [
                   {
-                    "id": "220bdbe6-58ab-49b7-beef-182b6b8bfb40",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_hero/1769419064938-gh6qow8sak.jpg",
-                    "sortOrder": 0,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
                     "id": "710b92f6-fda0-44e4-9440-044d550c84e1",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_hero/1769477353315-827jg8gkrzk.jpg",
                     "sortOrder": 0,
@@ -788,6 +781,13 @@
                 "title": "",
                 "images": [
                   {
+                    "id": "9800d3a3-6d33-415d-9181-12f4458316ae",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769477761416-vrzeowd7g0q.jpg",
+                    "sortOrder": 0,
+                    "description": "야외 단독수영장",
+                    "isSelected": true
+                  },
+                  {
                     "id": "1cdfe0d3-20ba-4ef6-bdf3-21dc1896cbc3",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769419064938-yb9c7vdgpy.jpg",
                     "sortOrder": 0,
@@ -799,6 +799,13 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769419064938-oju6cajpgll.jpg",
                     "sortOrder": 1,
                     "description": "야외테라스",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "f46fd9e6-1c1f-464e-91ef-6f1b464ca078",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769477761417-lvwc36igc4c.jpg",
+                    "sortOrder": 1,
+                    "description": "야외 테라스",
                     "isSelected": true
                   },
                   {
@@ -819,7 +826,7 @@
                     "id": "fbcec93e-5c72-4f54-8eea-4956c3509d3b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769419064938-c4vqw4426vq.jpg",
                     "sortOrder": 4,
-                    "description": "개별수영장",
+                    "description": "실내 단독수영장",
                     "isSelected": true
                   }
                 ]
