@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.16.0",
-    "generatedAt": "2026-01-28T01:32:33.763Z",
+    "version": "1.17.0",
+    "generatedAt": "2026-01-28T01:35:55.417Z",
     "templateType": "full_banner_wipe",
     "propertyId": "65874f96-97a7-46b7-82f3-6de0145cf7b3",
     "homepageId": "f1943f7e-912c-42ea-85c7-b0fb7408259e"
@@ -781,38 +781,38 @@
                 "title": "Preview",
                 "images": [
                   {
+                    "id": "f46fd9e6-1c1f-464e-91ef-6f1b464ca078",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769477761417-lvwc36igc4c.jpg",
+                    "sortOrder": 0,
+                    "description": "야외 테라스",
+                    "isSelected": true
+                  },
+                  {
                     "id": "9800d3a3-6d33-415d-9181-12f4458316ae",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769477761416-vrzeowd7g0q.jpg",
-                    "sortOrder": 0,
+                    "sortOrder": 1,
                     "description": "야외 단독수영장",
                     "isSelected": true
                   },
                   {
                     "id": "1cdfe0d3-20ba-4ef6-bdf3-21dc1896cbc3",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769419064938-yb9c7vdgpy.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
                     "description": "객실내부",
                     "isSelected": true
                   },
                   {
                     "id": "f70e7d8d-4c7a-4e9c-a8ff-5fe93e0ad4c0",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769419064938-oju6cajpgll.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "야외테라스",
                     "isSelected": true
                   },
                   {
-                    "id": "f46fd9e6-1c1f-464e-91ef-6f1b464ca078",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769477761417-lvwc36igc4c.jpg",
-                    "sortOrder": 3,
-                    "description": "야외 테라스",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "c9ad169d-045e-4084-ad54-53442080c1e2",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769419064938-x53wqlymw6.jpg",
+                    "id": "fbcec93e-5c72-4f54-8eea-4956c3509d3b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769419064938-c4vqw4426vq.jpg",
                     "sortOrder": 4,
-                    "description": "바베큐파티",
+                    "description": "실내 단독수영장",
                     "isSelected": true
                   },
                   {
@@ -823,10 +823,17 @@
                     "isSelected": true
                   },
                   {
-                    "id": "fbcec93e-5c72-4f54-8eea-4956c3509d3b",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769419064938-c4vqw4426vq.jpg",
+                    "id": "713de5d3-be2f-40e4-970e-cd484f0d68cb",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769564043842-jotk07489rd.jpg",
                     "sortOrder": 6,
-                    "description": "실내 단독수영장",
+                    "description": "객실 내부",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "c9ad169d-045e-4084-ad54-53442080c1e2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769419064938-x53wqlymw6.jpg",
+                    "sortOrder": 7,
+                    "description": "바베큐파티",
                     "isSelected": true
                   }
                 ],
@@ -912,7 +919,68 @@
             }
           ]
         },
-        "room": [],
+        "room": [
+          {
+            "id": "acde8266-b5c8-4028-9af1-5c676f03e60e",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "dc187921-b247-4990-ad7d-d0e29c3d445b",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "456ea834-60d1-4ab8-9d71-d7f13f6836bd",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "dad9cdd8-2dae-4972-8c4a-5e3aa9f050d5",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          }
+        ],
         "facility": [],
         "reservation": {
           "sections": [
