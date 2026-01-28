@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.15.0",
-    "generatedAt": "2026-01-27T07:47:30.922Z",
+    "version": "1.16.0",
+    "generatedAt": "2026-01-28T01:32:33.763Z",
     "templateType": "full_banner_wipe",
     "propertyId": "65874f96-97a7-46b7-82f3-6de0145cf7b3",
     "homepageId": "f1943f7e-912c-42ea-85c7-b0fb7408259e"
@@ -778,7 +778,7 @@
                 "description": "사계절 언제나 따뜻하게 즐기는 프라이빗 풀"
               },
               "gallery": {
-                "title": "",
+                "title": "Preview",
                 "images": [
                   {
                     "id": "9800d3a3-6d33-415d-9181-12f4458316ae",
@@ -790,46 +790,47 @@
                   {
                     "id": "1cdfe0d3-20ba-4ef6-bdf3-21dc1896cbc3",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769419064938-yb9c7vdgpy.jpg",
-                    "sortOrder": 0,
+                    "sortOrder": 1,
                     "description": "객실내부",
                     "isSelected": true
                   },
                   {
                     "id": "f70e7d8d-4c7a-4e9c-a8ff-5fe93e0ad4c0",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769419064938-oju6cajpgll.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
                     "description": "야외테라스",
                     "isSelected": true
                   },
                   {
                     "id": "f46fd9e6-1c1f-464e-91ef-6f1b464ca078",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769477761417-lvwc36igc4c.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 3,
                     "description": "야외 테라스",
                     "isSelected": true
                   },
                   {
                     "id": "c9ad169d-045e-4084-ad54-53442080c1e2",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769419064938-x53wqlymw6.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 4,
                     "description": "바베큐파티",
                     "isSelected": true
                   },
                   {
                     "id": "6ac7ffd6-0b3e-47aa-afa9-b93c7f32a7d2",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769419064938-36q8yup27kl.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 5,
                     "description": "불멍",
                     "isSelected": true
                   },
                   {
                     "id": "fbcec93e-5c72-4f54-8eea-4956c3509d3b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1769419064938-c4vqw4426vq.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 6,
                     "description": "실내 단독수영장",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": "공간 풀빌라의 객실 분위기와 오션뷰를 한눈에 살펴보세요."
               },
               "signature": {
                 "title": "",
@@ -2159,6 +2160,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "f1943f7e-912c-42ea-85c7-b0fb7408259e"
   }
 }
