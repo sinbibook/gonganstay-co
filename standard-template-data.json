@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.33.0",
-    "generatedAt": "2026-01-30T00:10:50.390Z",
+    "version": "1.34.0",
+    "generatedAt": "2026-01-30T00:17:05.014Z",
     "templateType": "full_banner_wipe",
     "propertyId": "65874f96-97a7-46b7-82f3-6de0145cf7b3",
     "homepageId": "f1943f7e-912c-42ea-85c7-b0fb7408259e"
@@ -44,7 +44,7 @@
     "businessInfo": {
       "businessName": "씨앤블루4",
       "businessNumber": "196-09-01337",
-      "representativeName": "김광수, 강미숙, 이배철, 조인선",
+      "representativeName": "김광수, 강미숙, 이배철",
       "businessAddress": "경상남도 거제시 사등면 가조로8길 10-23",
       "businessPhone": "010-8774-0677",
       "businessEmail": "0000@naver.com",
@@ -464,7 +464,6 @@
         "바다전망(씨뷰)"
       ],
       "roomStructures": [
-        "복층",
         "독채",
         "테라스"
       ],
@@ -522,7 +521,6 @@
         "바다전망(씨뷰)"
       ],
       "roomStructures": [
-        "복층",
         "독채",
         "테라스"
       ],
@@ -580,7 +578,6 @@
         "바다전망(씨뷰)"
       ],
       "roomStructures": [
-        "복층",
         "독채",
         "테라스"
       ],
