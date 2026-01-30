@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.32.0",
-    "generatedAt": "2026-01-29T01:58:05.640Z",
+    "version": "1.33.0",
+    "generatedAt": "2026-01-30T00:10:50.390Z",
     "templateType": "full_banner_wipe",
     "propertyId": "65874f96-97a7-46b7-82f3-6de0145cf7b3",
     "homepageId": "f1943f7e-912c-42ea-85c7-b0fb7408259e"
@@ -44,12 +44,12 @@
     "businessInfo": {
       "businessName": "씨앤블루4",
       "businessNumber": "196-09-01337",
-      "representativeName": "김광수",
+      "representativeName": "김광수, 강미숙, 이배철, 조인선",
       "businessAddress": "경상남도 거제시 사등면 가조로8길 10-23",
-      "businessPhone": "",
-      "businessEmail": "",
-      "businessType": "",
-      "businessCategory": "",
+      "businessPhone": "010-8774-0677",
+      "businessEmail": "0000@naver.com",
+      "businessType": "individual",
+      "businessCategory": "숙박업",
       "eCommerceRegistrationNumber": ""
     },
     "contractInfo": {
@@ -423,7 +423,7 @@
     {
       "id": "acde8266-b5c8-4028-9af1-5c676f03e60e",
       "name": "1호 청해 (개별실내외수영장,오션뷰,불멍)",
-      "description": "복층독채형 : \n- 1층 : 침대룸A(퀸1)+주방+개별테라스+개별야외수영장+화장실1\n- 2층 : 침대룸B(퀸2)+주방+개별실내수영장+화장실1",
+      "description": "독채형 : \n- 1층 : 침대룸A(퀸1)+주방+개별테라스+개별야외수영장+화장실1\n- 2층 : 침대룸B(퀸2)+주방+개별실내수영장+화장실1",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 인원추가비 : 13세 이상 30,000원 / 12세 이하 20,000원\n※ 1박기준/현장결제\n※ 영유아 인원수 포함",
       "group": "1호 청해 (개별실내외수영장,오션뷰,불멍)",
       "size": 115,
@@ -481,7 +481,7 @@
     {
       "id": "dc187921-b247-4990-ad7d-d0e29c3d445b",
       "name": "2호 윤슬 (개별실내외수영장,오션뷰)",
-      "description": "복층독채형 : \n- 1층 : 침대룸A(퀸1)+침대룸B(퀸1)+주방+개별테라스+개별야외수영장+화장실1\n- 2층 : 침대룸B(퀸1)+주방+개별실내수영장+화장실1",
+      "description": "독채형 : \n- 1층 : 침대룸A(퀸1)+침대룸B(퀸1)+주방+개별테라스+개별야외수영장+화장실1\n- 2층 : 침대룸B(퀸1)+주방+개별실내수영장+화장실1",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 인원추가비 : 13세 이상 30,000원 / 12세 이하 20,000원\n※ 1박기준/현장결제\n※ 영유아 인원수 포함",
       "group": "2호 윤슬 (개별실내외수영장,오션뷰)",
       "size": 115,
