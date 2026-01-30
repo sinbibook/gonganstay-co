@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "version": "1.35.0",
-    "generatedAt": "2026-01-30T01:19:44.608Z",
+    "version": "1.36.0",
+    "generatedAt": "2026-01-30T05:32:53.577Z",
     "templateType": "full_banner_wipe",
     "propertyId": "65874f96-97a7-46b7-82f3-6de0145cf7b3",
     "homepageId": "f1943f7e-912c-42ea-85c7-b0fb7408259e"
   },
   "property": {
     "id": "65874f96-97a7-46b7-82f3-6de0145cf7b3",
-    "name": "거제 씨엔블루4 풀빌라",
+    "name": "거제 씨앤블루4 풀빌라",
     "description": "",
     "subtitle": "",
-    "address": "경상남도 거제시 사등면 가조로8길 10-17",
+    "address": "경상남도 거제시 사등면 가조로8길 10-23",
     "latitude": 34.969295246259,
     "longitude": 128.517194947264,
     "contactPhone": "010-3874-8980",
@@ -414,7 +414,7 @@
         "commonArea": []
       }
     ],
-    "nameEn": "Geoje Sea N Blue 4 Pool Villa",
+    "nameEn": "Geoje Gongan Pool Villa",
     "domain": "gonganstay.co.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/10490",
     "ybsId": ""
@@ -594,7 +594,7 @@
     {
       "id": "dad9cdd8-2dae-4972-8c4a-5e3aa9f050d5",
       "name": "4호 해온 (개별실내수영장,오션뷰)",
-      "description": "독채풀빌라\n원룸형 : 침대룸A(퀸1)+주방+개별야외수영장+화장실1",
+      "description": "독채풀빌라\n원룸형 : 침대룸A(퀸1)+주방+개별실내수영장+화장실1",
       "roomInfo": "[인원추가(1박기준/사전결제)]\n- 인원추가비 : 13세 이상 30,000원 / 12세 이하 20,000원\n※ 1박기준/사전결제\n※ 영유아 인원수 포함",
       "group": "4호 (개별실내수영장,오션뷰)",
       "size": 66,
