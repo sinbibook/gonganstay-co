@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "version": "1.38.0",
-    "generatedAt": "2026-02-02T07:19:43.813Z",
+    "version": "1.39.0",
+    "generatedAt": "2026-02-12T08:52:26.660Z",
     "templateType": "full_banner_wipe",
     "propertyId": "65874f96-97a7-46b7-82f3-6de0145cf7b3",
     "homepageId": "f1943f7e-912c-42ea-85c7-b0fb7408259e"
   },
   "property": {
     "id": "65874f96-97a7-46b7-82f3-6de0145cf7b3",
-    "name": "거제 씨앤블루4 풀빌라",
+    "name": "거제 공간 풀빌라",
     "description": "",
     "subtitle": "",
     "address": "경상남도 거제시 사등면 가조로8길 10-23",
@@ -414,7 +414,7 @@
         "commonArea": []
       }
     ],
-    "nameEn": "Geoje Seanblue 4 Pool Villa",
+    "nameEn": "Geoje Gongan Pool Villa",
     "domain": "gonganstay.co.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/10490",
     "ybsId": "79354"
@@ -667,7 +667,7 @@
           "sections": [
             {
               "hero": {
-                "title": "거제 씨앤블루4 풀빌라",
+                "title": "거제 공간 풀빌라",
                 "images": [
                   {
                     "id": "710b92f6-fda0-44e4-9440-044d550c84e1",
@@ -739,7 +739,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "쉼을 위한 공간, 거제 씨앤블루4 풀빌라가 기다리고 있습니다."
+                "description": "쉼을 위한 공간, 거제 공간 풀빌라가 기다리고 있습니다."
               },
               "essence": {
                 "title": "실외/실내 개별수영장",
