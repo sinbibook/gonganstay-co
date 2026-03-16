@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.40.0",
-    "generatedAt": "2026-02-12T08:55:07.385Z",
+    "version": "1.41.0",
+    "generatedAt": "2026-03-16T08:46:34.574Z",
     "templateType": "full_banner_wipe",
     "propertyId": "65874f96-97a7-46b7-82f3-6de0145cf7b3",
     "homepageId": "f1943f7e-912c-42ea-85c7-b0fb7408259e"
@@ -42,7 +42,7 @@
       "펜션"
     ],
     "businessInfo": {
-      "businessName": "씨앤블루4",
+      "businessName": "공간풀빌라",
       "businessNumber": "196-09-01337",
       "representativeName": "김광수, 강미숙, 이배철",
       "businessAddress": "경상남도 거제시 사등면 가조로8길 10-23",
@@ -408,8 +408,87 @@
     },
     "images": [
       {
-        "thumbnail": [],
-        "exterior": [],
+        "thumbnail": [
+          {
+            "id": "7202f50e-0bef-4e76-8f5a-1781e53e3455",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/65874f96-97a7-46b7-82f3-6de0145cf7b3/thumbnail/1773048932589-qwf5e88r87a.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ],
+        "exterior": [
+          {
+            "id": "7f06af5b-ad82-464e-9f1b-d74623c98af6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/65874f96-97a7-46b7-82f3-6de0145cf7b3/exterior/1773048932589-qwmwfs5oya.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "9afe2e76-be07-42be-a27e-582d7cfc9852",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/65874f96-97a7-46b7-82f3-6de0145cf7b3/exterior/1773048932590-a1y2u3zayhb.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "ab4fc48a-b0c2-4381-ac2f-6ebf40b4558b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/65874f96-97a7-46b7-82f3-6de0145cf7b3/exterior/1773048932590-orwa3d14lw.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "219fe092-5503-4a52-aef4-84bf96488892",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/65874f96-97a7-46b7-82f3-6de0145cf7b3/exterior/1773048932590-scg1y8gi8nd.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "20b1a1e2-2cb9-4f7f-a679-9e8757dad790",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/65874f96-97a7-46b7-82f3-6de0145cf7b3/exterior/1773048932590-wfueyiy602g.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "f62f8f65-2849-4bfa-af05-0ffcaa1bca32",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/65874f96-97a7-46b7-82f3-6de0145cf7b3/exterior/1773048932589-b4yw9slzc39.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "1dd1a778-80d6-44b8-847e-0d03e286059c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/65874f96-97a7-46b7-82f3-6de0145cf7b3/exterior/1773048932590-cizsedyox3l.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "7b5cef6f-e980-4a12-b514-33175bd16f45",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/65874f96-97a7-46b7-82f3-6de0145cf7b3/exterior/1773048932590-isapz0lt2r.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "8eba4925-2aed-474d-ad3f-a033073ab51a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/65874f96-97a7-46b7-82f3-6de0145cf7b3/exterior/1773048932589-7oct41tkl7.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "728a9af2-9c1b-4f2d-b342-ce5e1aff2fad",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/65874f96-97a7-46b7-82f3-6de0145cf7b3/exterior/1773048932590-8tplostsmz4.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          }
+        ],
         "surrounding": [],
         "commonArea": []
       }
@@ -425,6 +504,7 @@
       "name": "1호 청해 (개별실내외수영장,오션뷰,불멍)",
       "description": "독채풀빌라 : \n- 1층 : 침대룸A(퀸1)+주방+개별테라스+개별야외수영장+화장실1\n- 2층 : 침대룸B(퀸2)+주방+개별실내수영장+화장실1",
       "roomInfo": "[인원추가(1박기준/사전결제)]\n- 인원추가비 : 13세 이상 30,000원 / 12세 이하 20,000원\n※ 1박기준/사전결제\n※ 영유아 인원수 포함",
+      "usageGuide": "",
       "group": "1호 청해 (개별실내외수영장,오션뷰,불멍)",
       "size": 115,
       "baseOccupancy": 2,
@@ -482,6 +562,7 @@
       "name": "2호 윤슬 (개별실내외수영장,오션뷰)",
       "description": "독채풀빌라 : \n- 1층 : 침대룸A(퀸1)+침대룸B(퀸1)+주방+개별테라스+개별야외수영장+화장실1\n- 2층 : 침대룸B(퀸1)+주방+개별실내수영장+화장실1",
       "roomInfo": "[인원추가(1박기준/사전결제)]\n- 인원추가비 : 13세 이상 30,000원 / 12세 이하 20,000원\n※ 1박기준/사전결제\n※ 영유아 인원수 포함",
+      "usageGuide": "",
       "group": "2호 윤슬 (개별실내외수영장,오션뷰)",
       "size": 115,
       "baseOccupancy": 2,
@@ -539,6 +620,7 @@
       "name": "3호 파랑 (개별실내외수영장,오션뷰)",
       "description": "독채풀빌라 : \n- 1층 : 침대룸A(퀸1)+침대룸B(퀸2)+주방+개별테라스+개별야외수영장+화장실1\n- 2층 : 침대룸C(퀸1)+주방+개별실내수영장+화장실1",
       "roomInfo": "[인원추가(1박기준/사전결제)]\n- 인원추가비 : 13세 이상 30,000원 / 12세 이하 20,000원\n※ 1박기준/사전결제\n※ 영유아 인원수 포함",
+      "usageGuide": "",
       "group": "3호 (개별실내외수영장,오션뷰)",
       "size": 115,
       "baseOccupancy": 2,
@@ -596,6 +678,7 @@
       "name": "4호 해온 (개별실내수영장,오션뷰)",
       "description": "독채풀빌라\n원룸형 : 침대룸A(퀸1)+주방+개별실내수영장+화장실1",
       "roomInfo": "[인원추가(1박기준/사전결제)]\n- 인원추가비 : 13세 이상 30,000원 / 12세 이하 20,000원\n※ 1박기준/사전결제\n※ 영유아 인원수 포함",
+      "usageGuide": "",
       "group": "4호 (개별실내수영장,오션뷰)",
       "size": 66,
       "baseOccupancy": 2,
@@ -2205,7 +2288,6 @@
           ]
         }
       ]
-    },
-    "id": "f1943f7e-912c-42ea-85c7-b0fb7408259e"
+    }
   }
 }
