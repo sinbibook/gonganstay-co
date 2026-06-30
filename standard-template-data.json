@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.65.0",
-    "generatedAt": "2026-06-30T09:53:04.707785120Z",
+    "version": "1.66.0",
+    "generatedAt": "2026-06-30T10:16:52.130270656Z",
     "templateType": "full_banner_wipe",
     "propertyId": "65874f96-97a7-46b7-82f3-6de0145cf7b3",
     "homepageId": "f1943f7e-912c-42ea-85c7-b0fb7408259e"
@@ -1710,8 +1710,8 @@
                 "title": "쉼을 위한 공간, 거제 공간풀빌라",
                 "images": [
                   {
-                    "id": "4547e777-5dfa-4272-ab1f-d0678e287f66",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/main_hero/1769473987148-hx8sw70g3r5.jpg",
+                    "id": "f745f2cc-ad0f-4a1d-a444-2d866b999879",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/main_hero/1782814610263-x7smvj9hwf.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
