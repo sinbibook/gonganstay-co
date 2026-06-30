@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.64.0",
-    "generatedAt": "2026-06-30T09:52:47.882239376Z",
+    "version": "1.65.0",
+    "generatedAt": "2026-06-30T09:53:04.707785120Z",
     "templateType": "full_banner_wipe",
     "propertyId": "65874f96-97a7-46b7-82f3-6de0145cf7b3",
     "homepageId": "f1943f7e-912c-42ea-85c7-b0fb7408259e"
@@ -1664,7 +1664,7 @@
                     "id": "1e61fb6c-60aa-44a1-8c15-c5295bde2fb6",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1782813079693-vdlx4wjt9s.jpg",
                     "sortOrder": 4,
-                    "description": "",
+                    "description": "불빛의 온기",
                     "isSelected": true,
                     "blockId": null
                   }
