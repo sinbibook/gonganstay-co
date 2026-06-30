@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.61.0",
-    "generatedAt": "2026-06-30T09:51:21.464183406Z",
+    "version": "1.62.0",
+    "generatedAt": "2026-06-30T09:51:58.495010472Z",
     "templateType": "full_banner_wipe",
     "propertyId": "65874f96-97a7-46b7-82f3-6de0145cf7b3",
     "homepageId": "f1943f7e-912c-42ea-85c7-b0fb7408259e"
@@ -1632,7 +1632,7 @@
                     "id": "96ebaa21-0056-41ec-be1c-d4a6b74528f1",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1782813079709-dbe8oo6ojc.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "바다의 여유",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1640,7 +1640,7 @@
                     "id": "669ea115-0af3-4ad1-9415-90997deca390",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1782813079690-m7tv7n9llr.jpg",
                     "sortOrder": 1,
-                    "description": "",
+                    "description": "물 위의 휴식",
                     "isSelected": true,
                     "blockId": null
                   },
