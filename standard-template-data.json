@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.63.0",
-    "generatedAt": "2026-06-30T09:52:33.183003722Z",
+    "version": "1.64.0",
+    "generatedAt": "2026-06-30T09:52:47.882239376Z",
     "templateType": "full_banner_wipe",
     "propertyId": "65874f96-97a7-46b7-82f3-6de0145cf7b3",
     "homepageId": "f1943f7e-912c-42ea-85c7-b0fb7408259e"
@@ -1656,7 +1656,7 @@
                     "id": "7e482a52-c829-4e6a-b7d6-80cc68ebce27",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/index_gallery/1782813079707-qw1xh50wl3.jpg",
                     "sortOrder": 3,
-                    "description": "",
+                    "description": "머무름의 여유",
                     "isSelected": true,
                     "blockId": null
                   },
