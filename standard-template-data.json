@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.72.0",
-    "generatedAt": "2026-07-01T01:33:23.139375298Z",
+    "version": "1.73.0",
+    "generatedAt": "2026-07-01T01:35:46.450412839Z",
     "templateType": "full_banner_wipe",
     "propertyId": "65874f96-97a7-46b7-82f3-6de0145cf7b3",
     "homepageId": "f1943f7e-912c-42ea-85c7-b0fb7408259e"
@@ -1725,9 +1725,9 @@
                   "title": "전 객실 오션뷰와 프라이빗 풀",
                   "images": [
                     {
-                      "id": "2671acef-3649-4493-a0ba-7ecc8e73adf1",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/main_about/1769473987150-ovrapxuu10j.jpg",
-                      "sortOrder": 0,
+                      "id": "48e92f56-e825-49bb-a06b-56d67c014605",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/main_about/1782869744674-0uxx9f1g6f.jpg",
+                      "sortOrder": 1,
                       "description": "",
                       "isSelected": true,
                       "blockId": "a866c914-7eb5-456d-84f2-943d16c3a994"
@@ -1740,9 +1740,9 @@
                   "title": "개별 데크에서 즐기는 오션뷰 바베큐",
                   "images": [
                     {
-                      "id": "9ef667dd-dd8f-433e-a898-cd2132367bb4",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/main_about/1769475200519-bt5w9flhct.jpg",
-                      "sortOrder": 1,
+                      "id": "ee8105aa-8182-47f1-b37b-aa685fbd842a",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/f1943f7e-912c-42ea-85c7-b0fb7408259e/main_about/1782869744671-53ktof73s9.jpg",
+                      "sortOrder": 0,
                       "description": "",
                       "isSelected": true,
                       "blockId": "6ddc19e7-1b13-401c-9ba2-fe80041a449c"
