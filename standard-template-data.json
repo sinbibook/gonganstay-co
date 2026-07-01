@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.78.0",
-    "generatedAt": "2026-07-01T06:38:35.872655740Z",
+    "version": "1.79.0",
+    "generatedAt": "2026-07-01T06:46:40.625270012Z",
     "templateType": "full_banner_wipe",
     "propertyId": "65874f96-97a7-46b7-82f3-6de0145cf7b3",
     "homepageId": "f1943f7e-912c-42ea-85c7-b0fb7408259e"
@@ -68,32 +68,40 @@
     },
     "facilities": [
       {
-        "id": "d647763c-264c-49b1-a57d-95013fe24ea0",
-        "name": "개별 야외수영장",
-        "description": "따스한 햇살 아래\n가볍게 물놀이를 즐기며\n여행의 즐거움을 더해보세요.",
-        "usageGuide": "[개별 야외수영장]\n- 이용 객실: 1호, 2호, 3호\n- 이용 시간: 15:00 ~ 20:00\n- 야외풀 미온수 요금: 120,000원 (1박기준/사전결제) \n- 야외풀 냉수 요금: 30,000원 (1박기준/사전결제) \n- 이용복장 : 래쉬가드, 간편복\n※ 12~2월 사용불가\n\n[개별수영장 이용안내]\n※ 상기된 요금은 1박당 이용 요금이며, 사전결제입니다.\n※ 입실일 하루 전까지 사전예약 필수(예약하지 않으시면 물이 안받아져있음)\n※ 당일 예약시 미리 연락주셔야 합니다\n※ 오일,거품 목욕제 및 기타 입욕제,꽃잎,음식물 반입금지",
+        "id": "f751add6-9dc0-41cf-a3e4-0257cb4ff66f",
+        "name": "오션뷰",
+        "description": "창 너머로 펼쳐지는 풍경이\n머무는 시간의 흐름을 한층 더 여유롭게 만듭니다.\n자연을 바라보며 온전히 쉬어가는 순간을 경험해보세요.",
+        "usageGuide": "창 너머로 펼쳐지는 풍경이\n머무는 시간의 흐름을 한층 더 여유롭게 만듭니다.\n자연을 바라보며 온전히 쉬어가는 순간을 경험해보세요.",
         "displayOrder": 0,
         "images": [
           {
-            "id": "487fca62-7a33-4fdc-bdf9-2160c911849e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d647763c-264c-49b1-a57d-95013fe24ea0/main/1782887129931-ska8qad6bb.jpg",
+            "id": "fd179c3d-6e69-4c1a-b3f9-c48c8b2a47c8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f751add6-9dc0-41cf-a3e4-0257cb4ff66f/main/1782888069531-kwbta73qpj.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "e8c2c8ee-4c8a-4b14-91cf-4196f136a136",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d647763c-264c-49b1-a57d-95013fe24ea0/main/1782887129929-y1kxoyuyau.jpg",
+            "id": "2c47a172-e1ef-4f7c-b5cd-6ceec0ec8206",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f751add6-9dc0-41cf-a3e4-0257cb4ff66f/main/1782888069547-8a8tjvlc4r.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "2b4cf7f3-f642-4271-bce2-0236810dca19",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d647763c-264c-49b1-a57d-95013fe24ea0/main/1782887129938-wz7jlpu9oh.jpg",
+            "id": "345a868a-2c53-420c-bf68-32d9923e2527",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f751add6-9dc0-41cf-a3e4-0257cb4ff66f/main/1782888069555-xceto7htzo.jpg",
             "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d63f0d79-1dbf-4696-9f5c-41065385fa14",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f751add6-9dc0-41cf-a3e4-0257cb4ff66f/main/1782888069613-ev2m3s38ko.jpg",
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -134,11 +142,44 @@
         ]
       },
       {
+        "id": "d647763c-264c-49b1-a57d-95013fe24ea0",
+        "name": "개별 야외수영장",
+        "description": "따스한 햇살 아래\n가볍게 물놀이를 즐기며\n여행의 즐거움을 더해보세요.",
+        "usageGuide": "따스한 햇살 아래\n가볍게 물놀이를 즐기며\n여행의 즐거움을 더해보세요.",
+        "displayOrder": 2,
+        "images": [
+          {
+            "id": "487fca62-7a33-4fdc-bdf9-2160c911849e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d647763c-264c-49b1-a57d-95013fe24ea0/main/1782887129931-ska8qad6bb.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "e8c2c8ee-4c8a-4b14-91cf-4196f136a136",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d647763c-264c-49b1-a57d-95013fe24ea0/main/1782887129929-y1kxoyuyau.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2b4cf7f3-f642-4271-bce2-0236810dca19",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d647763c-264c-49b1-a57d-95013fe24ea0/main/1782887129938-wz7jlpu9oh.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "1553cc6b-7f82-4080-a205-c63d049c43b0",
         "name": "개별바베큐",
         "description": "여유로운 공간에서 즐기는 식사 시간은\n단순한 한 끼를 넘어 특별한 기억으로 남습니다.\n편안한 분위기 속에서 온전한 시간을 보내보세요.",
         "usageGuide": "[실내바베큐] \n- 이용 객실: 302호 \n- 이용 장소: 실내 풀장  \n- 바베큐 형태: 전기그릴\n- 이용 요금: 1회 20,000원 (1박기준/현장결제)\n\n[야외바베큐] \n- 이용 객실: 301호, 401호, 402호 \n- 이용 장소: 야외 개인 바베큐장  \n- 바베큐 형태: 숯불\n- 제공 구성: 숯불+석쇠\n- 이용 요금: 2인-4인 30,000원, 인원 추가 시 1인당 5,000원, 숯추가 10,000원 (1박기준/현장결제)",
-        "displayOrder": 2,
+        "displayOrder": 3,
         "images": [
           {
             "id": "66039ffa-6c29-4b5f-ab96-a9619b5ebb85",
@@ -167,11 +208,44 @@
         ]
       },
       {
+        "id": "7e471c4e-2806-429e-87b5-9d12f2815d2c",
+        "name": "애견동반",
+        "description": "소중한 반려견과 함께하는 여행이\n더욱 자연스럽고 편안하게 이어질 수 있도록 준비했습니다.\n같은 공간에서 머무는 시간의 의미를 더해보세요.",
+        "usageGuide": "- 이용 객실: 401호, 402호 \n- 이용 요금: 1마리 당 20,000원 (1박기준/현장결제)\n- 제한 무게: 8kg 이하 소형견\n- 제한 마릿수: 객실당 최대 2마리까지\n- 제한 사항: 털빠짐 심한 견종 \n- 애견 비품: 개인지참\n※ 반려견으로 인해 침구, 벽지 등 객실 시설물이 훼손될 경우 수리 및 교체 비용이 청구될 수 있습니다.",
+        "displayOrder": 4,
+        "images": [
+          {
+            "id": "f41e2f43-9e5a-4466-bff1-9cb39420a5f8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7e471c4e-2806-429e-87b5-9d12f2815d2c/main/1782888276019-sb0kbs8cvx.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "29d46f43-6eaf-46d2-8960-d05b7baeea0d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7e471c4e-2806-429e-87b5-9d12f2815d2c/main/1782888276047-nwrfjw6x9t.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "628dd70e-4fdf-463c-a8c2-53663bc1f1e8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7e471c4e-2806-429e-87b5-9d12f2815d2c/main/1782888276050-3z538kxsgl.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "fe9d6908-8f34-44a0-aa03-e5cdfc84e36c",
         "name": "불멍",
         "description": "은은하게 퍼지는 불빛을 바라보며\n하루의 긴장을 천천히 내려놓는 시간을 가져보세요.\n조용한 분위기 속에서 깊은 휴식을 느낄 수 있습니다.",
         "usageGuide": "- 이용 객실: 전객실 \n- 이용 장소: 개별 데크 \n- 제공 구성: 장작 10kg \n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 신청 시간: 15:00~18:00\n- 이용 시간: ~22:00\n- 개인 불멍 용품 지참: 불가\n※ 우천 및 강풍 시: 이용 불가",
-        "displayOrder": 4,
+        "displayOrder": 5,
         "images": [
           {
             "id": "ef97540d-7eb1-4296-876a-bcf41120ff82",
@@ -196,7 +270,7 @@
         "name": "개별 데크",
         "description": "객실 앞에 마련된 개별데크에서\n자연을 가까이 느끼며 여유로운 시간을 보내보세요.",
         "usageGuide": "[개별 데크]\n- 객실 앞 넓은 데크에서 텐트 설치가 가능합니다. (1~3호)\n※ 말뚝 설치 불가 \n※ 텐트 설치를 원하실 경우 개별 지참 필수",
-        "displayOrder": 5,
+        "displayOrder": 6,
         "images": [
           {
             "id": "8f5e309d-48dc-4f51-b001-997baeea8c4a",
@@ -229,7 +303,7 @@
         "name": "낚시&항구",
         "description": "잔잔한 물가에서 낚시를 즐기며\n여유로운 여행의 순간을 경험해보세요.",
         "usageGuide": "잔잔한 물가에서 낚시를 즐기며\n여유로운 여행의 순간을 경험해보세요.",
-        "displayOrder": 6,
+        "displayOrder": 7,
         "images": [
           {
             "id": "f9565023-57a9-4193-97a6-7d7110b234c6",
@@ -270,7 +344,7 @@
         "name": "부대시설",
         "description": "숯불 위에서 천천히 익어가는 풍미와 함께,\n여행의 하루를 더욱 특별하게 즐겨보세요.",
         "usageGuide": "[선셋 이로리야끼] \n- 금태세트 1인 60,000원 \n- 제공품목:생선3종(금태포함), 통삼겹(150g), 새우, 소시지&파꼬치\n\n- 생선2종세트 1인 40,000원 \n- 제공품목: 생선2종,새우, 닭꼬치, 소시지&파꼬치\n※ 식사 대용이 아닌 안주정도의 양입니다. \n\n※ 생선은 계절별로 바뀔 수 있습니다. (볼락, 조기, 열기, 우럭 등) \n※ 하루 최대 4인 한정, 현장 구매 불가, 최소 숙박일 2일 전 예약 가능 \n※ 이용 시간은 오후 7시 30분~9시까지 입니다.",
-        "displayOrder": 7,
+        "displayOrder": 8,
         "images": [
           {
             "id": "047465d1-416d-4d2f-a9fd-70d4fa768b7a",
@@ -311,7 +385,7 @@
         "name": "편의 및 주변 시설",
         "description": "머무는 모든 순간이 편안하게 이어질 수 있도록\n세심한 준비로 공간의 완성도를 더했습니다.\n부담 없이 쉬어갈 수 있는 시간을 제공합니다.",
         "usageGuide": "- Wi-Fi 이용 가능\n\n[주변관광지]\n- 거제식물원 \n- 거제포로수용소유적공원",
-        "displayOrder": 8,
+        "displayOrder": 9,
         "images": [
           {
             "id": "d0128c9a-c115-4bb5-b559-c6e990fb5d28",
@@ -1775,6 +1849,26 @@
                 },
                 "about": {
                   "title": "사계절내내\n편안한 물놀이와 여유로운 휴식을\n온전히 즐겨보세요.",
+                  "images": [ ]
+                },
+                "experience": {
+                  "benefits": [ ],
+                  "features": [ ],
+                  "additionalInfos": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "7e471c4e-2806-429e-87b5-9d12f2815d2c",
+            "sections": [
+              {
+                "hero": {
+                  "title": "\n",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": "소중한 반려견과 함께하는 여행이\n 더욱 자연스럽고 편안하게 이어질 수 있도록 준비했습니다.\n같은 공간에서 머무는 시간의 의미를 더해보세요.\n",
                   "images": [ ]
                 },
                 "experience": {
